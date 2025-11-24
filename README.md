@@ -22,6 +22,6 @@ Atualmente estudo **Python, SQL, Estatística, Java (POO)** e projetos de ETL e 
 ➡️ Veja mais em: **Repositories**
 
 ## Contato
-- Email: seuemail@gmail.com
-- LinkedIn: https://linkedin.com/in/seuuser
-- Portfólio: https://seusite.com (se tiver)
+- Email: duduluis366@outlook.com
+- LinkedIn: https://www.linkedin.com/in/luis-eduardo-sade
+
