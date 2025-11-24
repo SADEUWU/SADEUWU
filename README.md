@@ -1,16 +1,27 @@
-## Hi there 👋
+# Oi, eu sou o Luis Eduardo 👋
 
-<!--
-**SADEUWU/SADEUWU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de [seu curso] na [sua universidade]  
+💼 Buscando estágio em **Dados / Backend / ML**  
+📍 Brasília-DF (ou sua cidade)
 
-Here are some ideas to get you started:
+## Sobre mim
+Sou interessado em construir soluções com dados e programação.
+Atualmente estudo **Python, SQL, Estatística, Java (POO)** e projetos de ETL e Machine Learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias
+- **Linguagens:** Python, Java, SQL, R  
+- **Dados:** Pandas, NumPy, Scikit-learn, Jupyter, SQLite  
+- **Ferramentas:** Git/GitHub, Linux, VSCode
+
+## Projetos em destaque
+- 📌 **SALARIO** — análise de salários em Ciência de Dados  
+  _Exploração, limpeza, visualização e insights._  
+- 📌 **[Projeto 2]** — breve descrição (1 linha)  
+- 📌 **[Projeto 3]** — breve descrição (1 linha)
+
+➡️ Veja mais em: **Repositories**
+
+## Contato
+- Email: seuemail@gmail.com
+- LinkedIn: https://linkedin.com/in/seuuser
+- Portfólio: https://seusite.com (se tiver)
