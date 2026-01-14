@@ -16,7 +16,7 @@ Atualmente estudo **Python, SQL, Estatística, Java (POO)** e projetos de ETL e 
 ## Projetos em destaque
 - 📌 **SALARIO** — análise de salários em Ciência de Dados  
   _Exploração, limpeza, visualização e insights._  
-- 📌[ **[Projeto 2]** (https://github.com/SADEUWU/Analises-de-dados-/tree/main)
+- 📌[ **[Projeto 2]** Analises-de-dados
 - 📌 **[Projeto 3]** — breve descrição (1 linha)
 
 ➡️ Veja mais em: **Repositories**
